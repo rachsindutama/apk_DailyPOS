@@ -1,0 +1,6 @@
+{
+  "name": "DailyPOS",
+  "description": "Aplikasi kasir modern berbasis cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

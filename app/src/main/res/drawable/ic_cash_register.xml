@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="291.775dp"
+    android:height="291.775dp"
+    android:viewportWidth="380"
+    android:viewportHeight="380">
+    <group
+        android:translateX="44.1125"
+        android:translateY="44.1125">
+        <path
+            android:fillColor="#E4E7E7"
+            android:pathData="M27.353,36.476h237.059v237.059H27.353V36.476z" />
+        <path
+            android:fillColor="#B6B9B9"
+            android:pathData="M27.353,118.535h237.059v18.235H27.353V118.535z" />
+        <path
+            android:fillColor="#CCD0D2"
+            android:pathData="M45.771,18.241h199.968l18.7,18.199H27.335L45.771,18.241z" />
+        <path
+            android:fillColor="#26A6D1"
+            android:pathData="M45.588,255.3h54.706V118.535H45.588V255.3z M118.529,255.3h54.706V118.535h-54.706V255.3z M191.471,118.535V255.3h54.706V118.535H191.471z" />
+        <path
+            android:fillColor="#E4E7E7"
+            android:pathData="M291.701,91.1l-29.259-27.289H29.35L0.073,91.1H0v18.263c0,5.042,4.094,9.136,9.118,9.136h273.529 c5.042,0,9.118-4.094,9.118-9.136V91.1H291.701z" />
+        <path
+            android:fillColor="#2295BC"
+            android:pathData="M 164.118,227.947 h 9.118 v 27.353 h -9.118 Z" />
+        <path
+            android:fillColor="#2295BC"
+            android:pathData="M 82.059,209.711 L 82.059,182.359 L 45.588,182.359 L 45.588,255.3 L 100.294,255.3 L 100.294,209.711 Z" />
+        <path
+            android:fillColor="#2295BC"
+            android:pathData="M 118.529,209.711 h 18.235 v 45.588 h -18.235 Z" />
+        <path
+            android:fillColor="#2295BC"
+            android:pathData="M 200.588,182.359 L 200.588,227.947 L 191.471,227.947 L 191.471,255.3 L 237.059,255.3 L 246.176,255.3 L 246.176,182.359 Z" />
+        <path
+            android:fillColor="#2295BC"
+            android:pathData="M 45.588,118.535 h 54.706 v 18.235 h -54.706 Z" />
+        <path
+            android:fillColor="#2295BC"
+            android:pathData="M 191.471,118.535 h 54.706 v 18.235 h -54.706 Z" />
+        <path
+            android:fillColor="#2295BC"
+            android:pathData="M 118.529,118.535 h 54.706 v 18.235 h -54.706 Z" />
+        <path
+            android:fillColor="#419687"
+            android:pathData="M63.824,218.829H27.353c-10.066,0-18.235,8.169-18.235,18.235v18.235 c0,10.075,8.169,18.235,18.235,18.235h36.471c10.075,0,18.235-8.16,18.235-18.235v-18.235 C82.059,226.999,73.908,218.829,63.824,218.829z M264.412,218.829h-36.471c-10.066,0-18.235,8.169-18.235,18.235v18.235 c0,10.075,8.169,18.235,18.235,18.235h36.471c10.075,0,18.235-8.16,18.235-18.235v-18.235 C282.647,226.999,274.496,218.829,264.412,218.829z" />
+        <path
+            android:fillColor="#51BBA8"
+            android:pathData="M264.412,218.829h-36.471c-2.671,0-5.188,0.602-7.476,1.641c-1.03,2.289-1.641,4.805-1.641,7.476 v18.235c0,10.075,8.169,18.235,18.235,18.235h36.471c2.671,0,5.188-0.602,7.476-1.641c1.03-2.289,1.641-4.805,1.641-7.476v-18.235 C282.647,226.999,274.496,218.829,264.412,218.829z" />
+        <path
+            android:fillColor="#51BBA8"
+            android:pathData="M63.824,218.829H27.353c-2.671,0-5.188,0.602-7.476,1.641c-1.03,2.289-1.641,4.805-1.641,7.476 v18.235c0,10.075,8.169,18.235,18.235,18.235h36.471c2.671,0,5.188-0.602,7.476-1.641c1.03-2.289,1.641-4.805,1.641-7.476v-18.235 C82.059,226.999,73.908,218.829,63.824,218.829z" />
+        <path
+            android:fillColor="#C2C5C5"
+            android:pathData="M 262.461,63.829 L 29.331,63.829 L 0.073,91.1 L 0,91.1 L 0,91.182 L 291.765,91.182 L 291.765,91.1 L 291.701,91.1 Z" />
+        <path
+            android:fillColor="#E2574C"
+            android:pathData="M 100.294,63.829 L 91.176,91.182 L 91.176,118.499 L 109.412,118.499 L 109.412,91.182 L 118.529,63.829 Z" />
+        <path
+            android:fillColor="#E2574C"
+            android:pathData="M291.701,91.1l-29.24-27.271h-16.275l27.353,27.353v27.316h9.118c5.042,0,9.118-4.094,9.118-9.136 v-18.18L291.72,91.1H291.701z" />
+        <path
+            android:fillColor="#E2574C"
+            android:pathData="M 209.706,63.829 L 227.941,91.182 L 227.941,118.499 L 246.176,118.499 L 246.176,91.182 L 227.941,63.829 Z" />
+        <path
+            android:fillColor="#E2574C"
+            android:pathData="M 63.824,63.829 L 45.588,91.182 L 45.588,118.499 L 63.824,118.499 L 63.824,91.182 L 82.059,63.829 Z" />
+        <path
+            android:fillColor="#E2574C"
+            android:pathData="M9.118,118.499h9.118V91.182l27.353-27.353H29.331L0.073,91.1H0.055L0,91.182v18.181 C0,114.405,4.103,118.499,9.118,118.499z" />
+        <path
+            android:fillColor="#E2574C"
+            android:pathData="M 136.765,63.829 h 18.235 v 54.669 h -18.235 Z" />
+        <path
+            android:fillColor="#E2574C"
+            android:pathData="M 200.588,118.499 L 200.588,91.182 L 191.471,63.829 L 173.235,63.829 L 182.353,91.182 L 182.353,118.499 Z" />
+        <path
+            android:fillColor="#C04A40"
+            android:pathData="M 63.824,63.829 L 45.588,91.182 L 63.824,91.182 L 82.059,63.829 Z" />
+        <path
+            android:fillColor="#C04A40"
+            android:pathData="M 291.701,91.1 L 262.461,63.829 L 246.176,63.829 L 273.529,91.182 L 291.765,91.182 L 291.719,91.1 Z" />
+        <path
+            android:fillColor="#C04A40"
+            android:pathData="M 136.765,63.829 h 18.235 v 27.353 h -18.235 Z" />
+        <path
+            android:fillColor="#C04A40"
+            android:pathData="M 100.294,63.829 L 91.176,91.182 L 109.412,91.182 L 118.529,63.829 Z" />
+        <path
+            android:fillColor="#C04A40"
+            android:pathData="M 209.706,63.829 L 227.941,91.182 L 246.176,91.182 L 227.941,63.829 Z" />
+        <path
+            android:fillColor="#C04A40"
+            android:pathData="M 173.235,63.829 L 182.353,91.182 L 200.588,91.182 L 191.471,63.829 Z" />
+        <path
+            android:fillColor="#C04A40"
+            android:pathData="M 45.588,63.829 L 29.331,63.829 L 0.073,91.1 L 0.055,91.1 L 0,91.182 L 18.235,91.182 Z" />
+    </group>
+</vector>
